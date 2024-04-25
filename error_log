@@ -1,0 +1,384 @@
+[24-Apr-2023 07:23:31 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's, laatste keer op 24/12/2020
+
+- gehoorproblemen!', 'Ja, 2020', 'Nee, ', 'Nee'' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-Apr-2023 07:25:03 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's, laatste keer op 24/12/2020
+
+- gehoorproblemen!', 'Ja, 2020', 'Nee, ', 'Nee'' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-Apr-2023 07:28:10 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's, laatste keer op 24/12/2020.
+', 'Ja, 2020', 'Nee, ', 'Nee', 'Nee', 'Ja', 'Ja'' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[27-Apr-2023 16:00:31 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[27-Apr-2023 18:00:31 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[27-Apr-2023 16:00:49 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[27-Apr-2023 18:00:50 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[27-Apr-2023 16:01:53 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[27-Apr-2023 18:01:53 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[27-Apr-2023 17:27:12 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[27-Apr-2023 19:27:12 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[03-May-2023 19:48:38 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ochtends of indien nodig, Allergie<br>Cortisonezalf, Voor het slapen gaan, All' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[04-May-2023 21:57:32 Europe/Brussels] PHP Warning:  Trying to access array offset on value of type null in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 741
+[05-May-2023 21:04:48 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ochtends, Allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 09:10:45 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's morgens, allergie<br>corstisonezalf, voor het slapen, allergie zon<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 09:14:52 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's morgens, hooikoorts<br>corstisonezalf, voor het slapen, muggebeten<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 09:55:24 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's 2016-2018', 'Ja, moet ik opzoeken', 'Ja, opletten met penicillines (laatste ke' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 09:55:42 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's 2016-2018', 'Ja, moet ik opzoeken', 'Ja, opletten met penicillines (laatste ke' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 10:21:05 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ochtends, verstopping voorkomen<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 10:21:20 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ochtends, verstopping voorkomen<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 10:21:54 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ochtends, verstopping voorkomen<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 10:35:14 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ochtends, verstopping voorkomen<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 10:37:42 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ochtends, verstopping voorkomen<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[08-May-2023 17:18:02 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ochtends, verstopping voorkomen<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[09-May-2023 08:49:16 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's
+Laatste keer: 24/12/2021', 'Nee, 2021', 'Nee, ', 'Nee', 'Nee', 'Ja', 'Ja', 'J' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[09-May-2023 08:53:58 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's
+laatste keer: 24/12/2021', 'Ja, 2021', 'Nee, ', 'Nee', 'Nee', 'Ja', 'Ja', 'Ja' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[09-May-2023 14:06:37 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S ochtends, Verstopping voorkomen<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[10-May-2023 09:01:33 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[10-May-2023 09:02:01 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[10-May-2023 09:07:51 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[10-May-2023 09:07:59 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[10-May-2023 07:15:19 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[10-May-2023 09:15:20 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[10-May-2023 07:15:33 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[10-May-2023 09:15:33 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[10-May-2023 07:26:04 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[10-May-2023 09:26:04 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[10-May-2023 07:29:08 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[10-May-2023 09:29:08 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Nee, ', 'Nee', 'Nee', 'Ja', 'Ja', 'Nee', '', 'Katrien van hoofstat ', '10/05/202' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[10-May-2023 09:32:17 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[10-May-2023 10:27:23 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[10-May-2023 12:27:23 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[11-May-2023 08:40:41 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, Allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[11-May-2023 08:40:50 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, Allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[11-May-2023 08:40:59 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, Allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[12-May-2023 08:48:05 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[12-May-2023 08:48:15 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[12-May-2023 08:48:25 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[12-May-2023 09:18:36 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[14-May-2023 11:55:22 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, hooikooorts<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[14-May-2023 15:11:01 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, Allergie<br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-May-2023 17:34:32 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-May-2023 17:34:44 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-May-2023 17:34:48 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-May-2023 17:35:15 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-May-2023 18:11:19 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-May-2023 18:11:23 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[24-May-2023 18:11:25 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[26-May-2023 20:12:02 UTC] PHP Warning:  Undefined array key "Afdeling" in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 25
+[26-May-2023 22:12:03 Europe/Brussels] PHP Fatal error:  Uncaught TypeError: RequestPaymentLink(): Argument #2 ($webshopID) must be of type string, null given, called in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 693 and defined in /home/chiroschelle2023/mefi/public_html/php/functions.php:718
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(693): RequestPaymentLink()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(350): ApiCall()
+#2 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#3 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#4 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 718
+[27-May-2023 13:25:45 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341
+[27-May-2023 13:25:54 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's avonds, <br>')' at line 2 in /home/chiroschelle2023/mefi/public_html/php/functions.php:341
+Stack trace:
+#0 /home/chiroschelle2023/mefi/public_html/php/functions.php(341): mysqli_query()
+#1 /home/chiroschelle2023/mefi/public_html/php/functions.php(25): NieuweFiche()
+#2 /home/chiroschelle2023/mefi/public_html/index.php(3): include('/home/chirosche...')
+#3 {main}
+  thrown in /home/chiroschelle2023/mefi/public_html/php/functions.php on line 341

@@ -1,0 +1,227 @@
+/*
+Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+Author:HtmlCoder
+Author URI:http://www.htmlcoder.me
+Version:1.0.0
+Created:November 2014
+License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+File Description: Place here your custom CSS styles
+*/
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+/****** LOGIN MODAL ******/
+.loginmodal-container {
+  padding: 30px;
+  max-width: 350px;
+  width: 100% !important;
+  background-color: rgba(0,0,0,0.4);
+  margin: 0 auto;
+  border-radius: 2px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  font-family: roboto;
+}
+
+.loginmodal-container h1 {
+  text-align: center;
+  font-size: 1.8em;
+  font-family: roboto;
+}
+
+.loginmodal-container input[type=submit] {
+  width: 100%;
+  display: block;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.loginmodal-container input[type=text], input[type=password] {
+  height: 44px;
+  font-size: 16px;
+  width: 100%;
+  margin-bottom: 10px;
+  -webkit-appearance: none;
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  /* border-radius: 2px; */
+  padding: 0 8px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  color: black;
+}
+
+.loginmodal-container input[type=text]:hover, input[type=password]:hover {
+  border: 1px solid #b9b9b9;
+  border-top: 1px solid #a0a0a0;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.loginmodal {
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  height: 36px;
+  padding: 0 8px;
+/* border-radius: 3px; */
+/* -webkit-user-select: none;
+  user-select: none; */
+}
+
+.loginmodal-submit {
+  /* border: 1px solid #3079ed; */
+  border: 0px;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1); 
+  background-color: #4d90fe;
+  padding: 17px 0px;
+  font-family: roboto;
+  font-size: 14px;
+  /* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#4787ed)); */
+}
+
+.loginmodal-submit:hover {
+  /* border: 1px solid #2f5bb7; */
+  border: 0px;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #357ae8;
+  /* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#357ae8)); */
+}
+
+.loginmodal-container a {
+  text-decoration: none;
+  color: #666;
+  font-weight: 400;
+  text-align: center;
+  display: inline-block;
+  opacity: 0.6;
+  transition: opacity ease 0.5s;
+} 
+
+.login-help{
+  font-size: 12px;
+}
+
+/*alles van samme*/
+#imaginary_container{
+    /*margin-top:20%; /* Don't copy this */
+	margin-bottom: 40px;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+/****** Mijn toevoegingen ******/
+
+.form-container {
+  background-color: rgba(45,45,45,0.8);
+  overflow:auto;
+  margin-bottom: 50px;
+}
+select {
+  color: black;
+  width: 182px;
+  height: 27px;
+}
+input[type=date] {
+  color: black;
+  height: 27px;
+  width: 182px;
+}
+h6 {
+  font-size: 120%;
+  font-style: italic;
+}
+.table .table{
+  background-color: rgba(0, 0, 0, 0.0);
+}
+textarea {
+  width: 95%;
+  height: 90px;
+  color: black;
+  padding: 0px;
+}
+hr {
+  padding: 0px;
+  margin: 0px;
+}
+input[type=button] {
+  color: black;
+}
+input{
+  color: black;
+}
+
+.adminContainer
+{
+	background-color: rgba(0,0,0,0.69);
+	padding-bottom: 15px;
+}
+#submit {
+  margin-bottom: 20px;
+}
+.succes h1, .succes h3, .succes p{
+  text-align: center;
+}
+.succes {
+    background-color: #f0ad4e;
+}
+.succes p, .succes p:hover, .succes p:active, .succes p:visited {
+  color: #ec971f;
+}
+.succes a:link {
+  text-decoration: none;
+}
+.succes a:hover {
+  border-bottom: 1px solid #ec971f;
+}
+.succes {
+  margin-top: 10vw;
+}
+input, select, textarea {
+  border: 1px solid #f4d442;
+}
+
+.required {
+  color: #f0ad4e;
+}
+
+.link-back p{
+    color: #f0ad4e;
+    font-weight: bold;
+    background-color: white; 
+    width: 20%;
+    padding: 20px;
+    margin-left: 40%;
+}
+
+.link-back p:hover {
+    background-color: #f4d442;
+    color: white;
+}
+
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
